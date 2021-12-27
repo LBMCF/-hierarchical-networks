@@ -1,0 +1,4160 @@
+{
+   "name":"Fungi",
+   "size":9,
+   "children":[
+      {
+         "name":"Mucoromycota",
+         "size":8,
+         "children":[
+            {
+               "name":"Kickxellomycetes",
+               "size":2,
+               "children":[
+                  {
+                     "name":"Kickxellales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Kickxellaceae",
+                           "size":9,
+                           "children":[
+                              {
+                                 "name":"Coemansia",
+                                 "size":19,
+                                 "children":[
+                                    {
+                                       "name":"Coemansia formosensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia aciculifera",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia asiatica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia brasiliensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia erecta",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia furcata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia guatemalensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia helicoidea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia interrupta",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia javaensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia linderi",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia mojavensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia nantahalensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia pectinata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia pennisetoides",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia reversa",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia spiralis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia thaxteri",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Coemansia umbellata",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Dipsacomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Dipsacomyces acuminosporus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Kickxella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Kickxella alabastrina",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Linderina",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Linderina macrospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linderina pennispora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Martensiomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Martensiomyces pterosporus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Mycoemilia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Mycoemilia scoparia",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Pinnaticoemansia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pinnaticoemansia coronantispora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Ramicandelaber",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Ramicandelaber brevisporus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Spiromyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Spiromyces aspiralis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Harpellales",
+                     "size":2,
+                     "children":[
+                        {
+                           "name":"Unassigned13",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Zancudomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zancudomyces culisetae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Legeriomycetaceae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Capniomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Capniomyces stellatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Furculomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Furculomyces boomerangus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Smittium",
+                                 "size":5,
+                                 "children":[
+                                    {
+                                       "name":"Smittium angustum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Smittium arvernense",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Smittium culicis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Smittium megazygosporum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Smittium simulii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Mucoromycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Mucorales",
+                     "size":15,
+                     "children":[
+                        {
+                           "name":"Rhizopodaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Rhizopus",
+                                 "size":7,
+                                 "children":[
+                                    {
+                                       "name":"Rhizopus cohnii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus americanus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus arrhizus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus circinans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus lyococcus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus microsporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizopus stolonifer",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Backusellaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Backusella",
+                                 "size":16,
+                                 "children":[
+                                    {
+                                       "name":"Backusella australiensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella circina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella dispersa",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella lamprospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella liffmaniae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella luteola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella macrospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella mclennaniae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella morwellensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella oblongispora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella parvicylindrica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella psychrophila",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella recurva",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella tarrabulga",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella tuberculispora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Backusella westeae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Choanephoraceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Blakeslea",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Blakeslea trispora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Choanephora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Choanephora cucurbitarum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gilbertella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gilbertella persicaria",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Poitrasia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Poitrasia circinans",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Cunninghamellaceae",
+                           "size":6,
+                           "children":[
+                              {
+                                 "name":"Absidia",
+                                 "size":11,
+                                 "children":[
+                                    {
+                                       "name":"Absidia caerulea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia californica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia cuneospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia cylindrospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia dubia",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia glauca",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia inflata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia macrospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia pseudocylindrospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia repens",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Absidia spinosa",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Chlamydoabsidia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Chlamydoabsidia padenii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Cunninghamella",
+                                 "size":6,
+                                 "children":[
+                                    {
+                                       "name":"Cunninghamella albida",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cunninghamella blakesleeana",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cunninghamella echinulata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cunninghamella elegans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cunninghamella phaeospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cunninghamella polymorpha",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gongronella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gongronella butleri",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Halteromyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Halteromyces radiatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Hesseltinella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Hesseltinella vesiculosa",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Unassigned159",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Sporodiniella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Sporodiniella umbellata",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Unassigned160",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Syzygites",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Syzygites megalocarpus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Lentamycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Lentamyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Lentamyces parricidus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Lentamyces zychae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Lichtheimiaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Dichotomocladium",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Dichotomocladium elegans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dichotomocladium hesseltinei",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dichotomocladium robustum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dichotomocladium sphaerosporum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Lichtheimia",
+                                 "size":5,
+                                 "children":[
+                                    {
+                                       "name":"Lichtheimia blakesleeana",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Lichtheimia corymbifera",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Lichtheimia hyalospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Lichtheimia ramosa",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Lichtheimia sphaerocystis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Rhizomucor",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Rhizomucor miehei",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizomucor pusillus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thermomucor",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Thermomucor indicae-seudaticae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Mucoraceae",
+                           "size":11,
+                           "children":[
+                              {
+                                 "name":"Actinomucor",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Actinomucor elegans",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Benjaminiella",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Benjaminiella poitrasii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Benjaminiella youngii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Chaetocladium",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Chaetocladium brefeldii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Chaetocladium jonesii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Dicranophora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Dicranophora fulva",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Ellisomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Ellisomyces anomalus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Helicostylum",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Helicostylum elegans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Helicostylum pulchrum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Mucor",
+                                 "size":48,
+                                 "children":[
+                                    {
+                                       "name":"Mucor abundans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor aligarensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor azygosporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor bainieri",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor caninus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor circinatus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor circinelloides",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor corticola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor ctenidius",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor durus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor endophyticus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor exponens",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor flavus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor fragilis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor fuscus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor genevensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor globosus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor griseocyanus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor heterogamus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor heterosporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor hiemalis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor inaequisporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor indicus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor irregularis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor jansseni",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor lanceolatus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor laxorrhizus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor lusitanicus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor luteus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor megalocarpus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor moelleri",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor mousanensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor mucedo",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor nidicola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor odoratus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor pakistanicus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor plasmaticus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor plumbeus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor pyriformis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor racemosus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor ramosissimus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor saturninus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor sinensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor sp.",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor subtilissimus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor tenuis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor velutinosus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mucor zychae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Parasitella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Parasitella parasitica",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Pilaira",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Pilaira anomala",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Pilaira moreaui",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Pirella",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Pirella circinans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Pirella naumovii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thamnidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Thamnidium elegans",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Mycotyphaceae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Cokeromyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Cokeromyces recurvatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Kirkomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Kirkomyces cordensis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Mycotypha",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Mycotypha africana",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mycotypha indica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mycotypha microspora",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Phycomycetaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Phycomyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Phycomyces blakesleeanus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Phycomyces nitens",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Spinellus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Spinellus fusiger",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Pilobolaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Pilobolus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pilobolus umbonatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Utharomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Utharomyces epallocaulus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Radiomycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Radiomyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Radiomyces mexicanus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Radiomyces spectabilis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Saksenaeaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Apophysomyces",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Apophysomyces elegans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Apophysomyces ossiformis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Apophysomyces trapeziformis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Apophysomyces variabilis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Saksenaea",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Saksenaea oblongispora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Saksenaea vasiformis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Syncephalastraceae",
+                           "size":7,
+                           "children":[
+                              {
+                                 "name":"Circinella",
+                                 "size":7,
+                                 "children":[
+                                    {
+                                       "name":"Circinella angarensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella chinensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella minor",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella mucoroides",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella muscae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella simplex",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Circinella umbellata",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Fennellomyces",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Fennellomyces heterothallicus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Fennellomyces linderi",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Fennellomyces verticillatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Phascolomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Phascolomyces articulosus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Protomycocladus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Protomycocladus faisalabadensis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Syncephalastrum",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Syncephalastrum contaminatum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Syncephalastrum monosporum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Syncephalastrum racemosum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thamnostylum",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Thamnostylum lucknowense",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Thamnostylum nigricans",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Thamnostylum piriforme",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Thamnostylum repens",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Zychaea",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zychaea mexicana",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Endogonomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Endogonales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Endogonaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Endogone",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Endogone sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Jimgerdemannia",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Jimgerdemannia flammicorona",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Jimgerdemannia lactiflua",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned261",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Dimargaritales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Dimargaritaceae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Dimargaris",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Dimargaris cristalligena",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dimargaris verticillata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dimargaris xerosporica",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Dispira",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Dispira parvispora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dispira simplex",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Tieghemiomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Tieghemiomyces parasiticus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned262",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned235",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned157",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Bifiguratus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Bifiguratus adelaidae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned263",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned236",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned158",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Modicella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Modicella reniformis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Mortierellomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Mortierellales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Mortierellaceae",
+                           "size":9,
+                           "children":[
+                              {
+                                 "name":"Dissophora",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Dissophora decumbens",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dissophora globulifera",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dissophora ornata",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Entomortierella",
+                                 "size":5,
+                                 "children":[
+                                    {
+                                       "name":"Entomortierella beljakovae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Entomortierella chlamydospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Entomortierella echinosphaera",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Entomortierella lignicola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Entomortierella parvispora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gamsiella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gamsiella multidivaricata",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gryganskiella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gryganskiella cystojenkinii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Linnemannia",
+                                 "size":10,
+                                 "children":[
+                                    {
+                                       "name":"Linnemannia acrotona",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia amoeboidea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia camargensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia elongata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia exigua",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia gamsii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia hyalina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia nantahalensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia schmuckeri",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Linnemannia zychae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Lobosporangium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Lobosporangium transversale",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Lunasporangiospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Lunasporangiospora selenospora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Mortierella",
+                                 "size":18,
+                                 "children":[
+                                    {
+                                       "name":"Mortierella alpina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella ambigua",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella antarctica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella bisporalis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella camargensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella capitata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella claussenii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella echinula",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella fluviae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella hyalina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella hypsicladia",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella lignicola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella polycephala",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella polygonia",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella reticulata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella rostafinskii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella umbellata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Mortierella wolfii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Podila",
+                                 "size":7,
+                                 "children":[
+                                    {
+                                       "name":"Podila clonocystis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila epicladia",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila epigama",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila horticola",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila humilis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila minutissima",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Podila verticillata",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Umbelopsidomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Umbelopsidales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Umbelopsidaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Umbelopsis",
+                                 "size":6,
+                                 "children":[
+                                    {
+                                       "name":"Umbelopsis angularis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Umbelopsis dimorpha",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Umbelopsis isabellina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Umbelopsis ovata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Umbelopsis ramanniana",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Umbelopsis vinacea",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Blastocladiomycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Blastocladiomycetes",
+               "size":2,
+               "children":[
+                  {
+                     "name":"Blastocladiales",
+                     "size":3,
+                     "children":[
+                        {
+                           "name":"Blastocladiaceae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Allomyces",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Allomyces arbusculus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Allomyces javanicus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Allomyces macrogynus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Allomyces neomoniliformis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Blastocladiella",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Blastocladiella britannica",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Blastocladiella emersonii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Blastocladiopsis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Blastocladiopsis parva",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Catenariaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Catenaria",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Catenaria anguillulae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Coelomomycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Coelomomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Coelomomyces lativittatus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Physodermatales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Physodermataceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Paraphysoderma",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Paraphysoderma sedebokerense",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Chytridiomycota",
+         "size":6,
+         "children":[
+            {
+               "name":"Chytridiomycetes",
+               "size":8,
+               "children":[
+                  {
+                     "name":"Chytridiales",
+                     "size":4,
+                     "children":[
+                        {
+                           "name":"Chytridiaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Blyttiomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Blyttiomyces helicus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Irineochytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Irineochytrium annulatum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Phlyctochytrium",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Phlyctochytrium arcticum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Phlyctochytrium bullatum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Phlyctochytrium lagenaria",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Phlyctochytrium planicorne",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Zopfochytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zopfochytrium polystomum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Chytriomycetaceae",
+                           "size":8,
+                           "children":[
+                              {
+                                 "name":"Chytriomyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Chytriomyces confervae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Chytriomyces hyalinus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Entophlyctis",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Entophlyctis confervae-glomeratae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Entophlyctis luteolus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Obelidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Obelidium mucronatum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Physocladia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Physocladia obscura",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Podochytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Podochytrium sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Rhizidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Rhizidium phycophilum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Rhizoclosmatium",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Rhizoclosmatium globosum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizoclosmatium hyalinum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Siphonaria",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Siphonaria sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Nowakowskiellaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Nowakowskiella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Nowakowskiella sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Synchytriaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Synchytrium",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Synchytrium endobioticum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Synchytrium microbalum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Synchytrium taraxaci",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Cladochytriales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Cladochytriaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Cladochytrium",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Cladochytrium replicatum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Cladochytrium tenue",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned221",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned143",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Hyaloraphidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Hyaloraphidium curvatum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lobulomycetales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Lobulomycetaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Clydaea",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Clydaea vesicula",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Lobulomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Lobulomyces angularis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Olpidiales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Olpidiaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Leiolpidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Leiolpidium bornovanum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Olpidiaster",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Olpidiaster brassicae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Polychytriales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Polychytriaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Polychytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Polychytrium aggregatum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Rhizophlyctidales",
+                     "size":3,
+                     "children":[
+                        {
+                           "name":"Borealophlyctidaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Borealophlyctis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Borealophlyctis nickersoniae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Rhizophlyctidaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Rhizophlyctis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Rhizophlyctis rosea",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Sonoraphlyctidaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Sonoraphlyctis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Sonoraphlyctis ranzonii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Spizellomycetales",
+                     "size":3,
+                     "children":[
+                        {
+                           "name":"Caulochytriaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Caulochytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Caulochytrium protostelioides",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Powellomycetaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Geranomyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Geranomyces michiganensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Geranomyces variabilis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Powellomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Powellomyces hirtus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Spizellomycetaceae",
+                           "size":5,
+                           "children":[
+                              {
+                                 "name":"Arkaya",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Arkaya lepida",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Fimicolochytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Fimicolochytrium jonesii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gaertneriomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gaertneriomyces semiglobifer",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Spizellomyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Spizellomyces palustris",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Spizellomyces punctatus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thoreauomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Thoreauomyces humboldtii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned256",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned222",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned144",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Homolaphlyctis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Homolaphlyctis polyrhiza",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned257",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned223",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Quaeritorhizaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Quaeritorhiza",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Quaeritorhiza haematococci",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Monoblepharidomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Monoblepharidales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Gonapodyaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Gonapodya",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gonapodya prolifera",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Monoblepharella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Monoblepharella sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Neocallimastigomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Neocallimastigales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Neocallimastigaceae",
+                           "size":6,
+                           "children":[
+                              {
+                                 "name":"Anaeromyces",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Anaeromyces contortus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Anaeromyces mucronatus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Anaeromyces robustus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Caecomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Caecomyces churrovis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Feramyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Feramyces austinii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Neocallimastix",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Neocallimastix californiae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Neocallimastix frontalis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Neocallimastix joyonii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Neocallimastix patriciarum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Pecoramyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pecoramyces ruminantium",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Piromyces",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Piromyces finnis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Piromyces rhizinflatus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Rhizophydiomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Rhizophydiales",
+                     "size":7,
+                     "children":[
+                        {
+                           "name":"Globomycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Globomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Globomyces pollinis-pini",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Gorgonomycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Gorgonomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Gorgonomyces haynaldii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Unassigned145",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Batrachochytrium",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Batrachochytrium dendrobatidis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Batrachochytrium salamandrivorans",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Unassigned146",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Operculomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Operculomyces laminatus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Unassigned147",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Paranamyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Paranamyces uniporus",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Kappamycetaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Kappamyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Kappamyces sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Terramycetaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Boothiomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Boothiomyces macroporosus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Terramyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Terramyces sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Entomophthoromycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Entomophthoromycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Entomophthorales",
+                     "size":2,
+                     "children":[
+                        {
+                           "name":"Ancylistaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Capillidium",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Capillidium adiaeretum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Capillidium heterosporum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Capillidium pumilum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Capillidium rhysosporum",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Conidiobolus",
+                                 "size":8,
+                                 "children":[
+                                    {
+                                       "name":"Conidiobolus antarcticus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus coronatus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus firmipilleus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus incongruus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus lamprauges",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus megalotocus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus obscurus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Conidiobolus polytocus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Microconidiobolus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Microconidiobolus paulus",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Neoconidiobolus",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Neoconidiobolus osmodes",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Neoconidiobolus thromboides",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Entomophthoraceae",
+                           "size":5,
+                           "children":[
+                              {
+                                 "name":"Entomophaga",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Entomophaga maimaiga",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Entomophthora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Entomophthora muscae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Massospora",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Massospora cicadina",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Massospora platypediae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Pandora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pandora neoaphidis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Zoophthora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zoophthora radicans",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Glomeromycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Glomeromycetes",
+               "size":4,
+               "children":[
+                  {
+                     "name":"Archaeosporales",
+                     "size":3,
+                     "children":[
+                        {
+                           "name":"Ambisporaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Ambispora",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Ambispora appendicula",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Ambispora gerdemannii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Ambispora leptoticha",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Archaeosporaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Archaeospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Archaeospora trappei",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Geosiphonaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Geosiphon",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Geosiphon pyriformis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Diversisporales",
+                     "size":4,
+                     "children":[
+                        {
+                           "name":"Acaulosporaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Acaulospora",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Acaulospora brasiliensis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Acaulospora colombiana",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Acaulospora morrowiae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Entrophospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Entrophospora infrequens",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Diversisporaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Diversispora",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Diversispora aurantia",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Diversispora eburnea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Diversispora epigaea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Diversispora spurca",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Gigasporaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Cetraspora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Cetraspora pellucida",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Dentiscutata",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Dentiscutata erythropus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dentiscutata heterogama",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Gigaspora",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Gigaspora gigantea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Gigaspora margarita",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Gigaspora rosea",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Scutellospora",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Scutellospora calospora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Scutellospora castanea",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Scutellospora persica",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Pacisporaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Pacispora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pacispora scintillans",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Glomerales",
+                     "size":2,
+                     "children":[
+                        {
+                           "name":"Claroideoglomeraceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Claroideoglomus",
+                                 "size":5,
+                                 "children":[
+                                    {
+                                       "name":"Claroideoglomus candidum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Claroideoglomus claroideum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Claroideoglomus etunicatum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Claroideoglomus lamellosum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Claroideoglomus luteum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Glomeraceae",
+                           "size":6,
+                           "children":[
+                              {
+                                 "name":"Dominikia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Dominikia iranica",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Funneliformis",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Funneliformis caledonius",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Funneliformis constrictus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Funneliformis mosseae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Glomus",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Glomus cerebriforme",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Glomus indicum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Glomus macrocarpum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Glomus versiforme",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Oehlia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Oehlia diaphana",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Rhizophagus",
+                                 "size":5,
+                                 "children":[
+                                    {
+                                       "name":"Rhizophagus aggregatus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizophagus clarus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizophagus intraradices",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizophagus irregularis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Rhizophagus prolifer",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Septoglomus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Septoglomus viscosum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Paraglomerales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Paraglomeraceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Paraglomus",
+                                 "size":3,
+                                 "children":[
+                                    {
+                                       "name":"Paraglomus brasilianum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Paraglomus laccatum",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Paraglomus occultum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsporidia",
+         "size":5,
+         "children":[
+            {
+               "name":"Unassigned258",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned224",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned148",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Enterospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Enterospora canceri",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned259",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned225",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned149",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Mitosporidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Mitosporidium daphniae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Unassigned260",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Unassigned226",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned150",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Nematocida",
+                                 "size":6,
+                                 "children":[
+                                    {
+                                       "name":"Nematocida ausubeli",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nematocida displodere",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nematocida homosporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nematocida major",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nematocida minor",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nematocida parisii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Metchnikovellea",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Metchnikovellida",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Metchnikovellidae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Amphiamblys",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Amphiamblys sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Metchnikovella",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Metchnikovella incurvata",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Microsporea",
+               "size":12,
+               "children":[
+                  {
+                     "name":"Chytridiopsida",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Enterocytozoonidae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Enterocytozoon",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Enterocytozoon bieneusi",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Enterocytozoon hepatopenaei",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Hepatospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Hepatospora eriocheir",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dissociodihaplophasida",
+                     "size":2,
+                     "children":[
+                        {
+                           "name":"Nosematidae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Anncaliia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Anncaliia algerae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Antonospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Antonospora locustae",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Cucumispora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Cucumispora dikerogammari",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Nosema",
+                                 "size":6,
+                                 "children":[
+                                    {
+                                       "name":"Nosema apis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nosema bombi",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nosema bombycis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nosema ceranae",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nosema granulosis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Nosema pieriae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Spragueidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Spraguea",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Spraguea lophii",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Glugeida",
+                     "size":4,
+                     "children":[
+                        {
+                           "name":"Encephalitozoonidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Encephalitozoon",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Encephalitozoon cuniculi",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Encephalitozoon hellem",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Encephalitozoon intestinalis",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Encephalitozoon romaleae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Glugeidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Pseudoloma",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Pseudoloma neurophilia",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Pleistophoridae",
+                           "size":3,
+                           "children":[
+                              {
+                                 "name":"Enterocytospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Enterocytospora sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Trachipleistophora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Trachipleistophora hominis",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Vavraia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Vavraia culicis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Tuzetiidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Berwaldia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Berwaldia schaefernai",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned227",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned151",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Dictyocoela",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Dictyocoela muelleri",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Dictyocoela roeselum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned228",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned152",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Enteropsectra",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Enteropsectra breve",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned229",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned153",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Hamiltosporidium",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Hamiltosporidium magnivora",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Hamiltosporidium tvaerminnensis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned230",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned154",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Microsporidium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Microsporidium sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned231",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned155",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Pancytospora",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Pancytospora epiphaga",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Pancytospora philotis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned232",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Unassigned156",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Vittaforma",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Vittaforma corneae",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned233",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Ordosporidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Ordospora",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Ordospora colligata",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Unassigned234",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Tubulinosematidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Tubulinosema",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Tubulinosema ratisbonensis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Meiodihaplophasida",
+                     "size":2,
+                     "children":[
+                        {
+                           "name":"Amblyosporidae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Edhazardia",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Edhazardia aedis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Thelohaniidae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Agmasoma",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Agmasoma penaei",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thelohania",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Thelohania contejeani",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Sanchytriomycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Sanchytriomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Sanchytriales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Sanchytriaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Amoeboradix",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Amoeboradix gromovii",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Sanchytrium",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Sanchytrium tribonematis",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Zoopagomycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Zoopagomycetes",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Zoopagales",
+                     "size":4,
+                     "children":[
+                        {
+                           "name":"Cochlonemataceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Cochlonema",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Cochlonema odontosperma",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Helicocephalidaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Rhopalomyces",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Rhopalomyces elegans",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Thamnocephalis",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Thamnocephalis sphaerospora",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Piptocephalidaceae",
+                           "size":2,
+                           "children":[
+                              {
+                                 "name":"Piptocephalis",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Piptocephalis brijmohanii",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Piptocephalis cylindrospora",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Syncephalis",
+                                 "size":4,
+                                 "children":[
+                                    {
+                                       "name":"Syncephalis cornu",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Syncephalis fuscata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Syncephalis plumigaleata",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Syncephalis pseudoplumigaleata",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"Zoopagaceae",
+                           "size":4,
+                           "children":[
+                              {
+                                 "name":"Acaulopage",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Acaulopage tetraceros",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Stylopage",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Stylopage hadra",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Zoopage",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zoopage sp.",
+                                       "size":1
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"Zoophagus",
+                                 "size":1,
+                                 "children":[
+                                    {
+                                       "name":"Zoophagus insidians",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Zygomycota",
+         "size":1,
+         "children":[
+            {
+               "name":"Unassigned264",
+               "size":1,
+               "children":[
+                  {
+                     "name":"Basidiobolales",
+                     "size":1,
+                     "children":[
+                        {
+                           "name":"Basidiobolaceae",
+                           "size":1,
+                           "children":[
+                              {
+                                 "name":"Basidiobolus",
+                                 "size":2,
+                                 "children":[
+                                    {
+                                       "name":"Basidiobolus microsporus",
+                                       "size":1
+                                    },
+                                    {
+                                       "name":"Basidiobolus ranarum",
+                                       "size":1
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
