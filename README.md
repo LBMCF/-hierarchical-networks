@@ -1,1 +1,1 @@
-# -hierarchical-networks
+# hierarchical-networks
